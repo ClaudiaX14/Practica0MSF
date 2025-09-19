@@ -1,9 +1,9 @@
-\[!\[Open in MATLAB Online]
+\[!\[Open in MATLAB Online] https://matlab.mathworks.com/open/github/v1?repo=ClaudiaX14/Practica0MSF 
 
 # Práctica 0: Modelo del sistema respiratorio
 
-## Infromación del\la estudiante
-Nombre Apellido \[No control]: Paul A. Valle \[05211261]; correo1@tectijuana.edu.mx
+## Infromación de la estudiante
+Claudia X. Castro \ [22212252]; l22212252@tectijuana.edu.mx
 
 Modelado de Sistemas Fisiológicos
 
@@ -45,3 +45,5 @@ Un circuito RLC representa un sistema de segundo orden que modeliza, de manera s
 \[1] P. A. Valle, Syllabus para Modelado de Sistemas Fisiológicos, Tecnológico Nacional de México / Instituto Tecnológico de Tijuana, Tijuana, B.C., México, 2025. Permalink: https://biomath.xyz/course/
 
 \[2] M. C. Khoo, Physiological Control Systems Analysis Simulation, and Estimation, 2nd ed. Piscataway, New Jersey, USA: IEEE Press, 2018, Section 4, Page 93.
+
+\[3] N. S. Nise, Control Systems Engineering, 8th ed. Hoboken, New Jersey, USA: John Wiley & Sons, 2020.
